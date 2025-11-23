@@ -1,0 +1,74 @@
+.navbar {
+    height: 54px;
+}
+
+.form-control {
+    width: 200px;
+    height: 25px;
+}
+
+.icon {
+    width: 22px;
+    height: 22px;
+    margin-left: 15px;
+}
+
+.personicon {
+    width: 22px;
+    height: 22px;
+}
+
+.article {
+    margin-top: 80px;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.post-image {
+    width: 100%;
+    display: block; /* sağ-sol boşlukları tamamen yok eder */
+    margin: 0;
+    padding: 0;
+}
+
+.posticon{
+    width: 22px;
+    height: 22px;
+    margin: 8px 3px 5px 10px;
+}
+
+.yorum-input{
+    width: 400px;
+}
+
+.history-people {
+    width: 60px;
+    height: 60px;
+}
+
+.story-bar {
+    white-space: nowrap;
+}
+
+.story-item {
+    margin-right: 20px;
+}
+
+.story-name {
+    font-weight: bold;
+    font-size: 14px;
+    margin-top: 5px;
+    text-align: center;
+}
+
+.profile-img{
+    width:50px;
+    height:50px;
+}
+
+.suggestion-img{
+    width: 30px;
+    height: 30px;
+}
+
+
